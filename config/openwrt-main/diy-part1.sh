@@ -10,8 +10,8 @@
 # sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 #sed -i '1i src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 #sed -i '2i src-git small https://github.com/kenzok8/small' feeds.conf.default
-sed -i '3i src-git passwall0 https://github.com/xiaorouji/openwrt-passwall-packages.git' feeds.conf.default
-sed -i '4i src-git passwall1 https://github.com/xiaorouji/openwrt-passwall.git' feeds.conf.default
+#sed -i '3i src-git passwall0 https://github.com/xiaorouji/openwrt-passwall-packages.git' feeds.conf.default
+#sed -i '4i src-git passwall1 https://github.com/xiaorouji/openwrt-passwall.git' feeds.conf.default
 
 # other
 # rm -rf package/utils/{ucode,fbtest}
